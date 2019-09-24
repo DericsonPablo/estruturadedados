@@ -1,7 +1,6 @@
-Estrutura de dados - UEPG
-2Âº ano - Engenharia de ComputaÃ§Ã£o
+<h1>Estrutura de dados - UEPG</h1>
+<p>2º ano - Engenharia de Computação</p>
 
-Compilar (usando linux)
-Compilar: g++ "nome_do_arquivo.cpp" -o "nome"
-
-Executar: ./nome
+<h2>Compilar (usando linux)</h2>
+<p>Compilar: g++ "nome_do_arquivo.cpp" -o "nome"</p>
+<p>Executar: ./nome</p>
